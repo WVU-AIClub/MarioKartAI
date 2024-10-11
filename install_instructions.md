@@ -10,4 +10,6 @@ Our first step in this set-up is installing the dolphin emulator. Dolphin is an 
 
 4. When you open the Dolphin emu, you should see this screen. Click   `PLAY` and open the MK Rom it may look something like `Mario Kart Wii (USA) (EnFrEs).rvz`.
 
+![Dolphin Screen](https://github.com/WVU-AIClub/MarioKartAI/blob/main/Screenshot%202024-10-10%20213508.png?raw=true)
+
 From there Dolphin should start up MK like normal!
