@@ -1,5 +1,12 @@
 ###
 # All this program demostrates is that is possible to capture an window in python
+
+# TO-DOs:
+# ~ Someone needs to be able to simulate the keyboard and mouse presses to get to the races or needs to be able get there automatically
+# ~ Someone needs to create an Environment that runs the rules of the program
+# ~ Someone needs to start simulating and also making sure that AI will have a screen simular to the one it will be playing against
+
+
 ###
 import pyautogui # Emulates Keyboard and capture window
 import cv2
